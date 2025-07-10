@@ -1,0 +1,15 @@
+div {
+    background-color: burlywood;
+    color: green;
+}
+
+p {
+    text-align: center;
+    font-size: large;
+    background-color: darkturquoise;
+    color: maroon;
+}
+
+.not-authentic {
+    color: green;
+}
